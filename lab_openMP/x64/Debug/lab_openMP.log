@@ -1,0 +1,7 @@
+﻿cl : command line warning D9025: overriding '/openmp' with '/openmp:llvm'
+  lab_openMP.cpp
+C:\Users\Веталь\Desktop\lab_openMP\lab_openMP\lab_openMP.cpp(29,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_openMP\lab_openMP\lab_openMP.cpp(30,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_openMP\lab_openMP\lab_openMP.cpp(45,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Веталь\Desktop\lab_openMP\lab_openMP\lab_openMP.cpp(108,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_openMP.vcxproj -> C:\Users\Веталь\Desktop\lab_openMP\x64\Debug\lab_openMP.exe
